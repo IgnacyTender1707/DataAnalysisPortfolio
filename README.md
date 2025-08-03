@@ -8,6 +8,6 @@ and feedback.
 
 Short description of my project:
 
-Excel - Employee Data Dashboards
+Excel - Employee Data Dashboards.
 I wanted to show, what I can do, both in terms of use of data and visually. In this project I used: Power Query (data cleaning, creating new columns),
 pivot tables (showcasing data), pivot charts (data visualization) and fragmentators (simplified the use of dashboards).
